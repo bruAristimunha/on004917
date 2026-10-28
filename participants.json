@@ -6,7 +6,8 @@
   "specie": {
     "Description": "specie of the participant",
     "Levels": {
-      "homo_sapiens": "Homo Sapiens"
+      "homo_sapiens": "Homo Sapiens",
+      "homo sapiens": "Homo Sapiens"
     }
   },
   "sex": {
